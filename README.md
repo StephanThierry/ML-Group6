@@ -2,7 +2,7 @@
 SVMs and decision trees
 
 
-Links: 
+Links:   
 https://github.com/devakar/deep-learning-books  
 https://github.com/ageron/handson-ml  
 
