@@ -1,0 +1,40 @@
+Missing tasks Exercise 3:
+
+a
+
+b
+Example of transformation of data in logarithmic transformation and/or others?
+
+c
+Normalize all relevant variables? We have not currently done this.
+
+d
+Explain the predictions of depature delay we found
+
+e
+
+
+f
+Try different hyperparameters
+Explain how decisiont trees can be used for regression analysis
+
+
+g
+Use a grid-search to determine a good set of hyperparameters.
+When you have found the best model, score your model on the test set. Comment on the result.
+
+h
+Nothing has been done in this exercise
+
+i
+(Why are we setting 0 values of dep_deplay to mode?)
+
+
+j
+Explain predictions?
+
+k
+Explain which model gives the most trustworthy extrapolation
+
+l
+Nothing has been done in this exercise (Larger exercise as we need to try many features and algorithms)
